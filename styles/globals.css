@@ -1,9 +1,9 @@
 
 * {
-  font-family: Sf Pro Display;
+  font-family: Helvetica Now Display,Inter, Sf Pro Display;
   font-size: large;
   margin-top: 20px;
-  background: #121227;
+  background: #11151c;
 }
 
 html {
@@ -17,7 +17,7 @@ html {
   text-transform: uppercase;
 }
 .inter{
-  font-family: Sf Pro Display;
+  font-family: SF Pro Display, Inter, Helvetica;
 }
 
 body {
